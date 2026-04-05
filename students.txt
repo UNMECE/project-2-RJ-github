@@ -1,0 +1,13 @@
+=== Art Students ===
+John_0 Doe0, GPA: 3, Emphasis: Art Studio
+John_1 Doe1, GPA: 3.1, Emphasis: Art History
+John_2 Doe2, GPA: 3.2, Emphasis: Art Education
+John_3 Doe3, GPA: 3.3, Emphasis: Art Studio
+John_4 Doe4, GPA: 3.4, Emphasis: Art History
+
+=== Physics Students ===
+PhysFirst0 PhysLast0, GPA: 3.2, Concentration: Biophysics
+PhysFirst1 PhysLast1, GPA: 3.3, Concentration: Earth and Planetary Sciences
+PhysFirst2 PhysLast2, GPA: 3.4, Concentration: Biophysics
+PhysFirst3 PhysLast3, GPA: 3.5, Concentration: Earth and Planetary Sciences
+PhysFirst4 PhysLast4, GPA: 3.6, Concentration: Biophysics
